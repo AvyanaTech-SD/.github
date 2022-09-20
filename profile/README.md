@@ -2,4 +2,4 @@
 
 [AVYANA](https://avyana.tech) aims to build a new age open-source project for autonomous self-driving cars. Currently under-development, we aim to build a fully working model by the end of 2022.
 
-To get started install [CORE](https://github.com/Avyana-Tech/core). Core is a meta repository that interfaces with other integral parts of the build.
+To get started install [AVYANA](https://github.com/Avyana-Tech/Avyana.git). Core is a meta repository that interfaces with other integral parts of the build.
